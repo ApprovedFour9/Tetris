@@ -4,6 +4,6 @@
 
 int
 main(void) {
-	tetris_run(12, 15);
+	tetris_run(12, 15); // Размер игрового поля
 	return EXIT_SUCCESS;
 }
